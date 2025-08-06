@@ -1,0 +1,3 @@
+name : lavanya, Course : BCA
+name : Laxmi O Koppad, Course : BCA
+name : ramya, Course : BCA
